@@ -43,3 +43,8 @@ endif
 colorscheme jellybeans
 
 set vb t_vb = " disable beep sound
+
+" shortcuts
+inoremap jj <ESC>
+inoremap jk <ESC>
+inoremap kj <ESC>
